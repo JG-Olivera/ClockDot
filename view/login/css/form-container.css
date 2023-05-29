@@ -1,0 +1,11 @@
+/* Configuração geral da base dos form */
+
+.form-container{
+    height: 100%;
+    width: 100%;
+    display: flex;
+}
+
+img{
+    width: 150px;
+}
